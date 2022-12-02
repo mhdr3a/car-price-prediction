@@ -1,0 +1,2 @@
+# car-price-prediction
+In this project, we want to estimate the price of a given car based on its advertisement on "Divar.ir" (an Iranian website similar to "eBay"). For this purpose, it is necessary to first load the training and test data in the notebook and then clean it. For this, we need to know what characteristics our data has. So, with the help of Pandas library methods, we can see the first 5 rows of data.
